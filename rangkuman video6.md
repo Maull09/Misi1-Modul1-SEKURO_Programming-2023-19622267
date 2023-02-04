@@ -17,5 +17,5 @@ Jenis Merge dalam Git
 
 skirinsut
 
-./ss percobaan branch.png
-./ss2 percobaan branch.png
+![ss percobaan branch](https://github.com/Maull09/Misi1-Modul1-SEKURO_Programming-2023-19622267/blob/master/ss%20percobaan%20branch.png)
+![ss2 percobaan branch](https://github.com/Maull09/Misi1-Modul1-SEKURO_Programming-2023-19622267/blob/master/ss2%20percobaan%20branch.png)
