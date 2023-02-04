@@ -16,3 +16,7 @@ Yang harus difokuskan saat menggunakan Git adalah
 Staging tree dan history.
 Staging area adalah tempat untuk menyimpan file sebelum dicommit.
 History adalah perubahan yang terjadi pada file (commit).
+
+skirinsut
+
+./ss percobaan git.png

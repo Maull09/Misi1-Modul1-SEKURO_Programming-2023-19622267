@@ -13,3 +13,9 @@ Jenis Merge dalam Git
     terjadi ketika branch berada dalam jalur langsung (direct path).
 2. Three-way  Merge
     terjadi ketika branch berada di dalam direct path yang berbeda.
+
+
+skirinsut
+
+./ss percobaan branch.png
+./ss2 percobaan branch.png
