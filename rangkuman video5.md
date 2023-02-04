@@ -19,4 +19,4 @@ History adalah perubahan yang terjadi pada file (commit).
 
 skirinsut
 
-./ss percobaan git.png
+![ss percobaan git](./ss percobaan git.png)
