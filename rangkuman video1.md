@@ -2,16 +2,16 @@ Version Control System, disebut juga revision control system atau source code ma
 Version Control System mempunyai beberapa fungsi diantaranya melacak versi dan membantu proses kolaborasi. 
 
 Version Control System
-•	Sebuah system yang menyimpan  “rekaman atau snapshot” perubahan pada source code
-•	Memungkinkan bekerja berkolaborasi dengan lebih baik
-•	Mengetahui siapa yang melakukan dan kapan sebuah perubahan yang terjadi
-•	Memungkinkan kita untuk Kembali ke keadaan sebelum perubahan
+* system yang menyimpan  “rekaman atau snapshot” perubahan pada source code
+* Memungkinkan bekerja berkolaborasi dengan lebih baik
+* Mengetahui siapa yang melakukan dan kapan sebuah perubahan yang terjadi
+* memungkinkan kita untuk Kembali ke keadaan sebelum perubahan
 
 Contoh VCS
-•	Git
-•	Subversion
-•	Mercurial
-•	CVS
+* Git
+* Subversion
+* Mercurial
+* CVS
 
 Git
 Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file di dalam folder simplenya  sebuah software untuk mengelola perubahan file di dalam folder (repo). Riwayat perubahan file disimpan dengan menggunakan serangkaian commit.
