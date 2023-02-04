@@ -1,0 +1,1 @@
+Video ini menjelaskan cara membuat akun github, membuat repo, membuat file baru dan commit,  edit file, melihat history,commit dan hash, melihat insight, 
